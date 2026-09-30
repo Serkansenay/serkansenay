@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Serkan Şenay 👋</h1>
 
 <p align="center">
-  2nd Year Computer Programming Student at Kastamonu University<br />
-  Developer focused on Python, C#, PHP, Web & Mobile Development, and Database Management.
+  2nd Year Computer Programming Student @ Kastamonu University | Backend & Mobile Developer
 </p>
 
 <p align="center">
