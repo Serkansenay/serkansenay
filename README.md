@@ -11,7 +11,7 @@
 
 ## Currently learning
 
-Improving my skills in Python, C#, PHP, and exploring mobile development with Android Studio, while working on backend systems and database management.
+I am a 2nd-year Computer Programming student at Kastamonu University. I develop backend systems using C#, Python, and PHP, and manage databases with MS SQL. I also design frontend interfaces with HTML and CSS, while exploring mobile development via Android Studio. Furthermore, I support my technical projects visually using Adobe tools (Photoshop, Premiere, After Effects) and maintain structured workflows with MS Office programs.
 
 ## Tech stack
 
