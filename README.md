@@ -43,6 +43,11 @@ I am a 2nd-year Computer Programming student at Kastamonu University. I develop 
 - [**C# Console Task Manager**](https://github.com/serkansenay/CSharp-Console-Task-Manager) — A console-based task management application developed in C#.
 - [**PHP Simple JSON API**](https://github.com/serkansenay/PHP-Simple-JSON-API) — A basic RESTful API endpoint simulation using PHP.
 
+## Experience
+
+**IT Intern**  
+D-Smart
+
 ## Education
 
 **Computer Programming (Associate Degree)**  
