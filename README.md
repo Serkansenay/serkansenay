@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=serkansenay&label=Profile+views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
-## Currently learning
+## About Me
 
 I am a 2nd-year Computer Programming student at Kastamonu University. I develop backend systems using C#, Python, and PHP, and manage databases with MS SQL. I also design frontend interfaces with HTML and CSS, while exploring mobile development via Android Studio. Furthermore, I support my technical projects visually using Adobe tools (Photoshop, Premiere, After Effects) and maintain structured workflows with MS Office programs.
 
@@ -38,11 +38,15 @@ I am a 2nd-year Computer Programming student at Kastamonu University. I develop 
 
 ## Featured projects
 
-- [**C# Hangman Game**](https://github.com/serkansenay) — A classic hangman game developed using C#. *(Don't forget to update this link with the exact repository URL)*
+- [**C# Hangman Game**](https://github.com/serkansenay/C-ile-adam-asmaca) — A classic console-based Hangman game developed using C#.
+- [**Python Password Generator**](https://github.com/serkansenay/Python-Password-Generator) — A secure password generation tool built with Python.
+- [**C# Console Task Manager**](https://github.com/serkansenay/CSharp-Console-Task-Manager) — A console-based task management application developed in C#.
+- [**PHP Simple JSON API**](https://github.com/serkansenay/PHP-Simple-JSON-API) — A basic RESTful API endpoint simulation using PHP.
 
-## Experience
+## Education
 
-**Student** · Kastamonu University / Kastamonu, Turkiye
+**Computer Programming (Associate Degree)**  
+Kastamonu University / Kastamonu, Turkiye *(2nd Year Student)*
 
 ## GitHub stats
 
