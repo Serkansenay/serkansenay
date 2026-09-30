@@ -2,7 +2,7 @@
 
 <p align="center">
   2nd Year Computer Programming Student at Kastamonu University<br />
-  Developer focused on Python, C#, PHP, Database Management, and Design.
+  Developer focused on Python, C#, PHP, Web & Mobile Development, and Database Management.
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ## Currently learning
 
-Improving my skills in Python, C#, and PHP, and working on backend systems and database management.
+Improving my skills in Python, C#, PHP, and exploring mobile development with Android Studio, while working on backend systems and database management.
 
 ## Tech stack
 
@@ -20,6 +20,11 @@ Improving my skills in Python, C#, and PHP, and working on backend systems and d
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
+**Web & Mobile**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 
 **Design & Office**  
 ![Adobe After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=black)
